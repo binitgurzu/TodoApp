@@ -1,6 +1,8 @@
 # TodoApp
 Simple Todo app with unit testing
 
+This is simple todo app where user add todo-task , update their task and delete their task.
+
 **Installation**
 
 For iOS first run
